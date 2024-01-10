@@ -1,0 +1,1 @@
+.\main.py 3 borba.jpeg BestFirstAlgorithm ManhattanHeuristic
